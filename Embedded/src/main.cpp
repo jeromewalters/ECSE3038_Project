@@ -4,7 +4,7 @@
 #include <ArduinoJson.h>
 #include "secret.h" 
 
-#define endpoint ""
+#define endpoint "https://jw-ecse3038-project.onrender.com"
 
 #define fanPin 22
 #define lightPin 23
